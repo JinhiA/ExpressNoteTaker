@@ -37,7 +37,7 @@ Application should allow users to delete previously saved notes.
 ## Usage 
 The user will be able to write, save, and view all notes. The user will also have the ability to go back and delete any note they choose. 
 
-[Demo](NoteTaker.gif)   
+![DemoVideo](NoteTaker.gif)   
 
 ## Resources/Credits 
 * W3Schools
