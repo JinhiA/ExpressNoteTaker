@@ -45,3 +45,6 @@ The user will be able to write, save, and view all notes. The user will also hav
 * MDN
 * Danielle Varela 
 * Heroku
+
+## Licence 
+None
