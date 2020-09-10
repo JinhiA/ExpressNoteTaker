@@ -4,7 +4,7 @@ hw11
 ## Project Summary 
 This project was created by taking a "pre-coded" front end application and tying in a backend application to allow its user to view, write, and delete notes. 
 
-[screenshot](NoteTaker.png)
+![Note Taker Index Page](NoteTaker.png)
 
 [Link to the deployed app](https://shrouded-everglades-32522.herokuapp.com/)
 
