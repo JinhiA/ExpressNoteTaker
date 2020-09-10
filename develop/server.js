@@ -10,7 +10,7 @@ const Dir = path.join(__dirname, "/public");
 
 //sets initial express app
 const app = express();
-const PORT = process.env.PORT || 3003;
+const PORT = process.env.PORT || 3005;
 
 //sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
