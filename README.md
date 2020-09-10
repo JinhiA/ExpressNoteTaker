@@ -4,7 +4,7 @@ hw11
 ## Project Summary 
 This project was created by taking a "pre-coded" front end application and tying in a backend application to allow its user to view, write, and delete notes. 
 
-![Note Taker Index Page](NoteTaker.png)
+![Screenshot](NoteTaker.png)
 
 [Link to the deployed app](https://shrouded-everglades-32522.herokuapp.com/)
 
@@ -37,7 +37,7 @@ Application should allow users to delete previously saved notes.
 ## Usage 
 The user will be able to write, save, and view all notes. The user will also have the ability to go back and delete any note they choose. 
 
-![Demo](NoteTaker.gif)   
+[Demo](NoteTaker.gif)   
 
 ## Resources/Credits 
 * W3Schools
