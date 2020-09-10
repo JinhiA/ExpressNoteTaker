@@ -10,7 +10,7 @@ const Dir = path.join(__dirname, "/public");
 
 //sets initial express app
 const app = express();
-const PORT = process.env.PORT || 3005;
+const PORT = process.env.PORT || 3008;
 
 //sets up the Express app to handle data parsing
 app.use(express.urlencoded({ extended: true }));
@@ -33,7 +33,7 @@ const notesArray = JSON.parse(currentNote);
 
 //Function to set IDs for each individual note
 const notesId = () => {
-  for (let i = 0; i < notesArray.length; i++) {
+  for (let i = 1; i < notesArray.length; i++) {
     notesArray[i].id = i;
   }
 }
